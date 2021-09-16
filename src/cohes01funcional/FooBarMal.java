@@ -7,6 +7,7 @@ public class FooBarMal {
 
 	  public void FirstMethod() {
 	    _bla.FirstCall();
+	    otherObject.twoCall();
 	  }
 
 	  public void SecondMethod() {
